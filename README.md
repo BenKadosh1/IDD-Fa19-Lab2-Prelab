@@ -13,6 +13,6 @@ Ideas:
 5. Meal time reminder
 6. Timer to take medicine
 7. Meeting cutoff (Timer that rings to keep meetings running on time and not over)
-8.
-9.
+8. Coffee break
+9. 
 10.
