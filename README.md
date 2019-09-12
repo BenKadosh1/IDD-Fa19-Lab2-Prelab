@@ -14,5 +14,5 @@ Ideas:
 6. Timer to take medicine
 7. Meeting cutoff (Timer that rings to keep meetings running on time and not over)
 8. Coffee break
-9. 
-10.
+9. Tooth brush timer (monitor how long you spend brushing your teeth to ensure you are meeting recommended time)
+10. Gentle alarm clock
