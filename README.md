@@ -6,13 +6,13 @@ IDEA GENERATION: The point of this week's lab is to figure out a cool interactio
 Please come up with 10 ideas of what you could do. They do not need to be potential market blockbusters. They do need to be things you feel like doing next week. You will also be asked to film one of your classmates trying out your idea, so pick things one of your classmates will be comfortable doing on film. Draw sketches with each of your ideas.
 
 Ideas:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. Cooking Timer
+2. Beep Test (Conditioning tests where athletes need to run a certain distance between beeps and the beeps get progressively faster)
+3. Ab circuit countdown
+4. Timer for Tv watching/tablet usage for children
+5. Meal time reminder
+6. Timer to take medicine
+7. Meeting cutoff (Timer that rings to keep meetings running on time and not over)
 8.
 9.
 10.
