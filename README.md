@@ -16,3 +16,10 @@ Ideas:
 8. Coffee break
 9. Tooth brush timer (monitor how long you spend brushing your teeth to ensure you are meeting recommended time)
 10. Gentle alarm clock
+
+
+Ben's Amazing Sketches
+
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab2-Prelab/blob/master/Sketches_1.jpg" width=450 height=450>
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab2-Prelab/blob/master/Sketches_2.jpg" width=450 height=450>
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab2-Prelab/blob/master/Sketches_3.jpg" width=450 height=450>
